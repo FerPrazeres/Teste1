@@ -20,6 +20,6 @@ teste
 ----
 
 
-![titulo imagem].(relampago-mcqueen_capa.jpeg)
+![titulo imagem](relampago-mcqueen_capa.jpeg)
 
 
