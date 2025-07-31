@@ -31,3 +31,5 @@ https://jekyllthemes.io/free
 
 https://github.com/thiagorossener/jekflix-template
 
+
+https://www.markdownguide.org/basic-syntax/
